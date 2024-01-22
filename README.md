@@ -66,6 +66,26 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 ## Installation 
-php artisan serve
-ctrl + click on the url it opens the PizzaHut app.
+1). php artisan serve
+2) .ctrl + click on the url it opens the PizzaHut app.
+
+## PizzaHut web View/Images
+![Home Page](images/homePage1.png)
+![Home page](images/homePage2.png)
+![Deals page](images/DealsPage.png)
+![Salads page](images/SaladsPage.png)
+![Pizza Page](images/PizzaPage.png)
+![FindPizza Page](images/FindPizzaPage.png)
+![Create Account page](images/CreateAccountPage.png)
+![SignUp page](images/signUpPage.png)
+![Drinks Page](images/DrinksPage.png)
+
+## Mobile + Laptop Design
+![Mobile view 1](images/responsive.png)
+![Mobile view2](images/responsive.png)
+![laptop View](images/LaptopView.png)
+
+
+
+
 
