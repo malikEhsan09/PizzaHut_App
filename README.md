@@ -69,5 +69,4 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 php artisan serve
 ctrl + click on the url it opens the PizzaHut app.
 
-![Image Alt Text](images/homePage1)
 
